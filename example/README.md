@@ -14,5 +14,5 @@
 4. 打开浏览器访问 http://localhost:8080
 
 说明：
-- 如果 example/main.js 找不到 ../dist/index.esm.js，请修改导入到你本地构建输出的位置或先运行构建。
+- 如果 example/main.js 找不到 ../dist/index.js，请修改导入到你本地构建输出的位置或先运行构建。
 - demo 使用 leafer-ui 的 CDN 版，仅用于本地快速验证。
