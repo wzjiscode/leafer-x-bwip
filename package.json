@@ -1,1 +1,29 @@
-{"name": "@wzjiscode/leafer-x-bwip","version": "0.1.0","description": "Leafer plugin: barcode & qrcode rendering using bwip-js, with separate text handling.","main": "dist/index.js","module": "dist/index.esm.js","types": "dist/index.d.ts","scripts": {"build": "tsc -p tsconfig.json","lint": "eslint . --ext .ts,.js","test": "jest"},"keywords": ["leafer","bwip","barcode","qrcode","leafer-plugin"],"author": "wzjiscode","license": "MIT","dependencies": {"bwip-js": "^2.0.9"},"devDependencies": {"typescript": "^5.0.0","@types/node": "^18.0.0"}}
+{
+    "name": "@wzjiscode/leafer-x-bwip",
+    "version": "0.1.0",
+    "description": "Leafer plugin: barcode & qrcode rendering using bwip-js, with separate text handling.",
+    "main": "dist/index.js",
+    "module": "dist/index.esm.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc -p tsconfig.json",
+        "lint": "eslint . --ext .ts,.js",
+        "test": "jest"
+    },
+    "keywords": [
+        "leafer",
+        "bwip",
+        "barcode",
+        "qrcode",
+        "leafer-plugin"
+    ],
+    "author": "wzjiscode",
+    "license": "MIT",
+    "dependencies": {
+        "bwip-js": "^2.0.9"
+    },
+    "devDependencies": {
+        "typescript": "^5.0.0",
+        "@types/node": "^18.0.0"
+    }
+}
