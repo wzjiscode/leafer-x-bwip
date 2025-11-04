@@ -1,5 +1,5 @@
 import Leafer from 'https://unpkg.com/leafer-ui@latest/dist/leafer-ui.esm.js';
-import registerBwip from '../dist/index.esm.js';
+import registerBwip from '../dist/index.js';
 
 registerBwip(Leafer);
 
